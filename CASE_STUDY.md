@@ -16,6 +16,15 @@ You can find the code in this repository.
 - **No Implementation:** You will **not** be required to write any code during the assessment. This is a discussion-based exercise.
 - **Group Format:** You will discuss your observations in a small group.
 
+## Discussion Points
+
+- Choices Made in the Implementation: Analyzing the decisions taken during the development of the application.
+- Potential Improvements: Identifying opportunities to enhance the current implementation.
+- Shortcomings: Discussing any weaknesses or limitations in the code.
+- Extending Functionality: Exploring ways to add new features or improve existing ones.
+
+We look forward to your insights and contributions during the assessment.
+
 ## The Application
 
 The API has the following resources:
@@ -103,12 +112,3 @@ erDiagram
     Project ||--o{ ProjectMember : "has members"
     Project ||--o{ Requirement : "has requirements"
 ```
-
-## Discussion Points
-
-- Choices Made in the Implementation: Analyzing the decisions taken during the development of the application.
-- Potential Improvements: Identifying opportunities to enhance the current implementation.
-- Shortcomings: Discussing any weaknesses or limitations in the code.
-- Extending Functionality: Exploring ways to add new features or improve existing ones.
-
-We look forward to your insights and contributions during the assessment, Good Luck!
