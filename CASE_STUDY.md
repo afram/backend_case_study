@@ -1,4 +1,4 @@
-# Case Study – Entry-Level Backend Engineer
+# Case Study - Backend Student Worker
 
 We are thrilled to have you join us as a potential candidate for the Backend student worker role. Welcome! You will participate in a group discussion designed to understand how you think about backend development. You will be working in small groups, where we encourage you to collaborate, share insights, and listen to different perspectives.
 
