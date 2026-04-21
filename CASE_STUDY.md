@@ -18,10 +18,10 @@ You can find the code in this repository.
 
 ## Discussion Points
 
-- Choices Made in the Implementation: Analyzing the decisions taken during the development of the application.
-- Potential Improvements: Identifying opportunities to enhance the current implementation.
-- Shortcomings: Discussing any weaknesses or limitations in the code.
-- Extending Functionality: Exploring ways to add new features or improve existing ones.
+- **Choices Made in the Implementation:** Analyzing the decisions taken during the development of the application.
+- **Potential Improvements:** Identifying opportunities to enhance the current implementation.
+- **Shortcomings:** Discussing any weaknesses or limitations in the code.
+- **Extending Functionality:** Exploring ways to add new features or improve existing ones.
 
 We look forward to your insights and contributions during the assessment.
 
